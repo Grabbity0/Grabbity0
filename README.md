@@ -8,10 +8,8 @@
 
 ***
 <a href="https://github.com/Grabbity0">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=H.U&show_icons=true&hide=issues&exclude_repo=Grabbity0.github.io" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Grabbity0&show_icons=true&hide=issues&exclude_repo=Grabbity0.github.io" />
 </a>
 <a href="https://github.com/Grabbity0">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=H.U&layout=compact&langs_count=6&exclude_repo=hoos007.github.io&card_width=400" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Grabbity0&layout=compact&langs_count=6&exclude_repo=Grabbity0.github.io&card_width=400" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grabbity0)](https://github.com/anuraghazra/github-readme-stats)
